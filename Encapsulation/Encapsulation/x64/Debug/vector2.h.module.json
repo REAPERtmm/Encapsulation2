@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Vector2.h.obj",
+            "outputs": [
+                "C:\\Users\\tiag\\source\\repos\\Encapsulation\\Encapsulation\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\tiag\\source\\repos\\Encapsulation\\Encapsulation\\x64\\Debug\\Vector2.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Vector2.h",
+                    "source-path": "c:\\users\\tiag\\source\\repos\\encapsulation\\encapsulation\\vector2.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
